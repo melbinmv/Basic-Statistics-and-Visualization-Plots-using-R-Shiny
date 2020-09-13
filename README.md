@@ -5,7 +5,9 @@ Data Analysis App is a self-contained desktop application, here “self-containe
  * App can be simply distributed as a download
  
 The idea behind how to make it as a self-contained desktop application refernces to:
+
  *https://www.r-bloggers.com/deploying-desktop-apps-with-r/
+ 
  *http://blog.analytixware.com/2014/03/packaging-your-shiny-app-as-windows.html
  
  
